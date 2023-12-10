@@ -1,0 +1,23 @@
+{
+  "name": "more-purple",
+  "displayName": "More Purple",
+  "description": "max purple theme",
+  "version": "0.0.1",
+  "publisher": "Immortal",
+
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "More Purple",
+        "uiTheme": "vs-dark",
+        "path": "./themes/more-purple-color-theme.json"
+      }
+    ]
+  }
+}
