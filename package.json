@@ -4,7 +4,21 @@
   "description": "max purple theme",
   "version": "0.0.1",
   "publisher": "Immortal",
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImmortalNameless/more-purple"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "purple",
+    "purple theme",
+    "dark purple",
+    "max purple",
+    "wallpaper",
+    "Immortal",
+    "ImmortalNameless"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },
